@@ -1,7 +1,10 @@
 {
-  "questions": ["question1", "question2", "question3"],
-  "reponses": ["reponse1", "reponse2", "reponse3"]
+  "questions": ["Définir l'échelle macroscopique", "Définir l'échelle microscopique", "Test"],
+  "reponses": ["Il s'agit de l'échelle des objets pouvant être observés à l'oeil nu sans appareil grossisant",
+    "Il s'agit de l'échelle des objets ne pouvant pas être observés à l'oeil nu et dont l'observation nécessite un appareil grossisant (comme le microscope)",
+    "reponse3"]
 }
+
 
 
 
