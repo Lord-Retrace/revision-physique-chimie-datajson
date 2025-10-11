@@ -2,7 +2,7 @@
   "questions": ["Définir l'échelle macroscopique", "Définir l'échelle microscopique","Définir une espèce chimique","Définir un corps pur",
     "Définir un corps pur simple","Définir un corps pur complexe","Définir un mélange","Quand dit-on qu'un mélange est homogène?","Quand dit-on qu'un mélange est hétérogène?","Quand dit-on que deux liquides sont miscibles?",
   "Quand dit-on que deux liquides sont non-miscibles?","Définir la masse volumique","Définir l'intensité du courant électrique","Définir la tension électrique","Définir la température d'évaporisation ou d'ébullition","Définir la température de fusion ou de solidification",
-  "Définir solution aqueuse","Définir solvant","Définir soluté","Définir dissolution","Définir concentration massique"],
+  "Définir solution aqueuse","Définir solvant","Définir soluté","Définir dissolution","Définir concentration massique","Définir dilution","Définir facteur de dilution"],
   
   "reponses": ["Il s'agit de l'échelle des objets pouvant être observés à l'oeil nu sans appareil grossisant",
     "Il s'agit de l'échelle des objets ne pouvant pas être observés à l'oeil nu et dont l'observation nécessite un appareil grossisant (comme le microscope)",
@@ -20,9 +20,12 @@
     "Il s'agit de l'espèce majoritaire du mélange,c'est à dire l'espèce chimique présente en plus grande quantité",
     "Il s'agit des espèces minoritaires du mélange,c'est à dire les espèces chimiques présentes en quantité moindres",
     "Il s'agit d'un processus au cours duquel un soluté est dispersé dans le solvant.Les molécules de solvant viennent entourer le soluté.Après agitation,on ne peut plus distinguer le soluté à l'oeil nu.",
-    "Cela correspond à la masse du soluté notée m (soluté), contenue dans un volume de la solution notée V (solution)"],
+    "Cela correspond à la masse du soluté notée m (soluté), contenue dans un volume de la solution notée V (solution)",
+    "Il s'agit du processus par lequel on diminue la concentration en masse d'un soluté d'une solution aqueuse déjà préparée,en ajoutant du solvant à la solution aqueuse",
+    "Cet élément indique par combien a été divisée la concentration en masse de la solution 'trop' concentrée (solution mère) au cours de la dilution"],
   "nbphotos": "8"
 }
+
 
 
 
